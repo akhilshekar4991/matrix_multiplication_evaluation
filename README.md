@@ -1,3 +1,7 @@
+This repository is part of CS 6620 project and used to evaluate matrix multiplication using the Vanilla for-nested version and the CBLAS-optmized version. 
+
+The code was originally forked from https://github.com/higucheese/cblas_sgemm and modified.
+
 # Sample code of cblas_sgemm
 Written to investigate OpenBLAS's implementation.
 
